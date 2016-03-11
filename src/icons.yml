@@ -5846,3 +5846,12 @@ icons:
     created:    4.5
     categories:
       - Web Application Icons
+
+  - name:       Angie's List
+    id:         angies-list
+    unicode:    f296
+    created:    4.6
+    filter:
+      - social network
+    categories:
+      - Brand Icons
